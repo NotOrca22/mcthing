@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.notorca22.mcthing.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
